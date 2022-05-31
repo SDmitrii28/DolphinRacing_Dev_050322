@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1466; Version 2009; 64bit' Language: 'ru' Physical Memory: 7112 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Dmitry/DolphinRacing_Dev_050322
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49964
+Successfully changed project path to: C:/Users/Dmitry/DolphinRacing_Dev_050322
+C:/Users/Dmitry/DolphinRacing_Dev_050322
+Using Asset Import Pipeline V2.
